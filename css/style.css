@@ -1,0 +1,17 @@
+table{
+    margin: auto;
+}
+body{
+    background: url(../img/3.jpg);
+}
+h1{
+    text-align: center;
+    color: yellow;
+}
+td{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: yellow;
+}
